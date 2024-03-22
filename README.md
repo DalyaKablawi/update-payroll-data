@@ -44,4 +44,4 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 
 [GitHub repository URL](https://github.com/DalyaKablawi/update-payroll-data)
 
-[Deployed application URL]
+[Deployed application URL](https://dalyakablawi.github.io/update-payroll-data/)
