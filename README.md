@@ -38,9 +38,10 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 
 ## Screenshots
 
+[!Assignment 3 GIF](./JavaScriptAssignment-ezgif.com-video-to-gif-converter.gif)
 
 ## URLs
 
-[GitHub repository URL](https://github.com/DalyaKablawi/portfolio-takeone)
+[GitHub repository URL](https://github.com/DalyaKablawi/update-payroll-data)
 
 [Deployed application URL](https://dalyakablawi.github.io/portfolio-takeone/)
